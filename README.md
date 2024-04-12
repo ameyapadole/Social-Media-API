@@ -1,4 +1,4 @@
-# Backend clone  of social media app by using FastAPI
+# Generic Backend of a Social Media App using FastAPI
 
 #### This API  has 4 routes
 
